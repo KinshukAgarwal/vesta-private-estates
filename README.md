@@ -6,7 +6,6 @@ A luxury real-estate landing page with a cinematic hero, scroll-driven image seq
 
 ## Demo
 
-Demo video: [demo.mp4](./demo.mp4)
 
 ## Run locally
 
